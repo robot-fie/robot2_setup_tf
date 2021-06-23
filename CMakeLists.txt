@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(tf_robot2)
+project(robot2_setup_tf)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)
