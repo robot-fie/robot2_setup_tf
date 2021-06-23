@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>tf_robot2</name>
-  <version>0.0.0</version>
-  <description>The tf_robot2 package</description>
+  <name>robot2_setup_tf</name>
+  <version>0.0.1</version>
+  <description>The robot2_setup_tf package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
